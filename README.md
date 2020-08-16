@@ -27,7 +27,7 @@ A Python 3 Client for PullWord
 ```
 from pullword3 import pullword
 sentence = '这是一个伸手不见五指的黑夜。我叫孙悟空，我爱北京，我爱Python和C++。'
-print(pullword(sentence,))
+print(pullword(sentence))
 ```
 
 ## Output
