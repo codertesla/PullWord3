@@ -2,11 +2,14 @@
 
 A Python 3 Client for PullWord
 
+![Python 3.7](https://img.shields.io/badge/python-v3.7-blue)
+
+
 ## What's PullWord
 
 > PullWord:永久免费的基于深度学习的中文在线抽词
 
-[PullWord](http://pullword.com/)
+[PullWord Website](http://pullword.com/)
 
 ## PullWord API
 
