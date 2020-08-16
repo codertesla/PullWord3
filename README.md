@@ -2,7 +2,7 @@
 
 A Python 3 Client for PullWord
 
-![Python 3.5](https://img.shields.io/badge/python-v3.7-blue)![Python 3.5](https://img.shields.io/badge/python-v3.6-blue)![Python 3.7](https://img.shields.io/badge/python-v3.7-blue)![Python 3.8](https://img.shields.io/badge/python-v3.8-blue)
+![Python 3.5](https://img.shields.io/badge/python-v3.5-blue) ![Python 3.6](https://img.shields.io/badge/python-v3.6-blue) ![Python 3.7](https://img.shields.io/badge/python-v3.7-blue) ![Python 3.8](https://img.shields.io/badge/python-v3.8-blue)
 
 
 ## What's PullWord
